@@ -21,6 +21,6 @@ This platform provides real-time cryptocurrency data for **Bitcoin**, **Ethereum
    ```bash
    git clone https://github.com/your-username/cryptocurrency-stats.git
    cd cryptocurrency-stats
-  ## For Api documentation and screenhot 
-     please refer doumentation folder 
+  ## For Api documentation and screenshot 
+     <a href="https://github.com/Saqibaqeel/KoinX_backend_intern_Task/tree/main/DocumentationAndScreentShot"> documentation</a>
 
