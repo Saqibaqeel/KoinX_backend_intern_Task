@@ -1,6 +1,6 @@
 # Assesment KinX
 
-This platform provides real-time cryptocurrency data for **Bitcoin**, **Ethereum**, and **Matic Network**, and calculates their price **standard deviation**. It fetches live data from the **CoinGecko API** and automatically updates every **2 hours**. The backend is built with **Node.js** and **MongoDB**, and the frontend uses **React** and **Bootstrap**.
+This project provides real-time cryptocurrency data for **Bitcoin**, **Ethereum**, and **Matic Network**, and calculates their price **standard deviation**. It fetches live data from the **CoinGecko API** and automatically updates every **2 hours**. The backend is built with **Node.js** and **MongoDB**, and the frontend uses **React** and **Bootstrap**.
 
 ## Key Features
 - **Real-time Data**: Displays live prices, market cap, and 24h change for Bitcoin, Ethereum, and Matic Network.
@@ -22,5 +22,5 @@ This platform provides real-time cryptocurrency data for **Bitcoin**, **Ethereum
    git clone https://github.com/your-username/cryptocurrency-stats.git
    cd cryptocurrency-stats
   ## For Api documentation and screenshot 
-     <a href="https://github.com/Saqibaqeel/KoinX_backend_intern_Task/tree/main/DocumentationAndScreentShot"> documentation</a>
+     For detailed API documentation and screenshots, [click here](https://github.com/Saqibaqeel/KoinX_backend_intern_Task/tree/main/DocumentationAndScreentShot).
 
