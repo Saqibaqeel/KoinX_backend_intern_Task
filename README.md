@@ -16,11 +16,7 @@ This project provides real-time cryptocurrency data for **Bitcoin**, **Ethereum*
 - **State Management**: React Hooks
 - **HTTP Client**: Axios
 
-## Setup Instructions
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/cryptocurrency-stats.git
-   cd cryptocurrency-stats
+
   ## For Api documentation and screenshot 
      For detailed API documentation and screenshots, [click here](https://github.com/Saqibaqeel/KoinX_backend_intern_Task/tree/main/DocumentationAndScreentShot).
 
